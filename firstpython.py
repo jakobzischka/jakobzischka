@@ -1,1 +1,1 @@
-Epic
+print("Epic")
